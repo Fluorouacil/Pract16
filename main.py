@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 from scipy.optimize import fsolve
 
 R0 = 50.0
-alpha = 0.00426
+alpha = 4.3 * 10**(-3)
 T_min = 0
 T_max = 100
 Ex_max = 0.1
