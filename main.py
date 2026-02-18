@@ -12,7 +12,6 @@ I_max = 0.020
 R_min = R0
 R_max = R0 * (1 + alpha * T_max)
 
-print(f"=== ИСХОДНЫЕ ДАННЫЕ ===")
 print(f"R(0°C) = {R_min:.4f} Ом")
 print(f"R(100°C) = {R_max:.4f} Ом\n")
 
